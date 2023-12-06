@@ -22,7 +22,7 @@ To use the application, follow these steps:
 home page results
 ![Screenshot from 2023-12-06 11-52-40](https://github.com/themaxempire23/Weather-App/assets/83220484/fb232fea-548a-46b8-ba42-7a74f52f9928)
 
-#Search results illustration
+Search results illustration
 ![Screenshot from 2023-12-06 11-53-16](https://github.com/themaxempire23/Weather-App/assets/83220484/942cf2ca-3a74-401c-b700-aceaa28cebe1)
 
 
