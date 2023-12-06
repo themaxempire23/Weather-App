@@ -19,7 +19,7 @@ To use the application, follow these steps:
 
 ## Screenshots
 
-###home page results
+##home page results
 ![Screenshot from 2023-12-06 11-52-40](https://github.com/themaxempire23/Weather-App/assets/83220484/fb232fea-548a-46b8-ba42-7a74f52f9928)
 
 ###Search results illustration
@@ -38,4 +38,9 @@ For collaboration purposes read the licence and contributing.md file
 ## License
 
 This application is licensed under the MIT License. Please see the LICENSE.md file for more information.
+
+#Credits
+##themaxempire23
+
+Happy coding!
 
