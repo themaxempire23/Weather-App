@@ -1,11 +1,4 @@
-1. Google search:
-   open weather map
 
-username: webdev 
-
-password:
-
-bfA$!!$6Pk-R5um
 
 
 if (data.weather[0].main == "Clouds") {
